@@ -15,3 +15,6 @@ A nginx module enabling fetching of files that are stored in zipped archives.
   }
 
 </pre>
+
+This version has been extended to include support for dynamic module use as well as MIME type
+detection for PNG and JPEG files.
